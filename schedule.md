@@ -4,6 +4,9 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
+*Seminar Meeting Time*: Mondays 9:40am - 12:10pm \\
+
+<br>
 
 1. Philosophy of Social Science (2 Weeks)
   * Value and Objectivity

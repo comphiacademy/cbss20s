@@ -4,7 +4,7 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
-*Seminar Meeting Time*: Mondays 9:40am - 12:10pm \\
+_Seminar Meeting Time_: Mondays 9:40am - 12:10pm
 
 <br>
 

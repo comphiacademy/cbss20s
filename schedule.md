@@ -4,8 +4,7 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
-_Seminar Meeting Time_: Mondays 9:40am - 12:10pm
-
+**Seminar Meeting Time** : Mondays 1:30pm - 4:00pm\\
 <br>
 
 1. Philosophy of Social Science (2 Weeks)

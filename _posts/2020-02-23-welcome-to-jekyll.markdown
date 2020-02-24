@@ -13,4 +13,4 @@ Welcome to the CBSS Seminar! At least for the first few weeks, we will hold our 
 3. Send me your chosen email address using your university email to 6687@cnu.edu.cn. 
 4. Once I receive your email, I will send you an invitation to www.huiyizhuo.com. Accept the invitation on the website.
 
-That's it! You are ready to go. Our first class is scheduled on Feb 24 start from 9:40am. See you in class!
+That's it! You are ready to go. Our first class is scheduled on Feb 24 start from 1:30am. See you in class!

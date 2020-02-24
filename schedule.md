@@ -33,3 +33,7 @@ permalink: /schedule/
 5. Causality(3 weeks)
   *  Causal Inference in Social Sciences
   *  Causality and Emergence
+
+
+Feb 24. [Lecture 1](/assets/week1_cbss.pdf) Introduction
+

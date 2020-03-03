@@ -42,5 +42,5 @@ Feb 24. [Lecture 1](/assets/week1_cbss.pdf) Introduction
 
 <br>
 
-Mar 2. [Lecture 2](/assets/week2_cbss.pdf) Introduction
+Mar 2. [Lecture 2](/assets/week2_cbss.pdf) Naturalism
 

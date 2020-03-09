@@ -39,5 +39,7 @@ permalink: /schedule/
 <br>
 Feb 24. [Lecture 1](/assets/week1_cbss.pdf) Introduction
 <br>
-Mar 2. [Lecture 2](/assets/week2_cbss.pdf) Naturalism
+Mar 2. [Lecture 2](/assets/naturalism.pdf) Naturalism
+<br>
+Mar 9. [Lecture 3](/assets/reductionism.pdf) Reductionism
 

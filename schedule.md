@@ -44,4 +44,5 @@ Mar 2. [Lecture 2](/assets/naturalism.pdf) Naturalism
 Mar 9. [Lecture 3](/assets/reductionism.pdf) Reductionism
 <br>
 Mar 16. [Lecture 4](/assets/norm.pdf) Normativity
-
+<br>
+Mar 23. [Lecture 5](/assets/DE_intro.pdf) Introduction to Differential Equations

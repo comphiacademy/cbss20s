@@ -46,3 +46,5 @@ Mar 9. [Lecture 3](/assets/reductionism.pdf) Reductionism
 Mar 16. [Lecture 4](/assets/norm.pdf) Normativity
 <br>
 Mar 23. [Lecture 5](/assets/DE_intro.pdf) Introduction to Differential Equations
+<br>
+Mar 30. [Lecture 6](/assets/bifurcation.pdf) Dynamical Systems: Equilibrium and Bifurcation

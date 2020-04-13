@@ -48,3 +48,5 @@ Mar 16. [Lecture 4](/assets/norm.pdf) Normativity
 Mar 23. [Lecture 5](/assets/DE_intro.pdf) Introduction to Differential Equations
 <br>
 Mar 30. [Lecture 6](/assets/bifurcation.pdf) Dynamical Systems: Equilibrium and Bifurcation
+<br>
+April 13. [Lecture 7](/assets/oscillation.pdf) Dynamical Systems: Oscillation

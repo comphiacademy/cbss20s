@@ -50,3 +50,5 @@ Mar 23. [Lecture 5](/assets/DE_intro.pdf) Introduction to Differential Equations
 Mar 30. [Lecture 6](/assets/bifurcation.pdf) Dynamical Systems: Equilibrium and Bifurcation
 <br>
 April 13. [Lecture 7](/assets/oscillation.pdf) Dynamical Systems: Oscillation
+<br>
+April 20. [Lecture 8](/assets/chaos.pdf) Dynamical Systems: Chaos

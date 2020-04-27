@@ -52,3 +52,5 @@ Mar 30. [Lecture 6](/assets/bifurcation.pdf) Dynamical Systems: Equilibrium and 
 April 13. [Lecture 7](/assets/oscillation.pdf) Dynamical Systems: Oscillation
 <br>
 April 20. [Lecture 8](/assets/chaos.pdf) Dynamical Systems: Chaos
+<br>
+April 21. [Lecture 9](/assets/fractals.pdf) Fractals and Power Laws

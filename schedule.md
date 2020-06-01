@@ -58,3 +58,5 @@ April 27. [Lecture 9](/assets/fractals.pdf) Fractals and Power Laws
 May 11. [Lecture 10](/assets/ABM1.pdf) Agent-Based Modeling and Social Emergence I
 <br>
 May 18. [Lecture 11](/assets/ABM2.pdf) Agent-Based Modeling and Social Emergence II
+<br>
+June 1. [Lecture 12](/assets/causation1.pdf) Causal Inference in Social Sciences I

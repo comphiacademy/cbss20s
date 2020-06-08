@@ -60,3 +60,5 @@ May 11. [Lecture 10](/assets/ABM1.pdf) Agent-Based Modeling and Social Emergence
 May 18. [Lecture 11](/assets/ABM2.pdf) Agent-Based Modeling and Social Emergence II
 <br>
 June 1. [Lecture 12](/assets/causation1.pdf) Causal Inference in Social Sciences I
+<br>
+June 8. [Lecture 13](/assets/causation2.pdf) Causal Inference in Social Sciences II

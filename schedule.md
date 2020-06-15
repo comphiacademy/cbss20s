@@ -63,4 +63,4 @@ June 1. [Lecture 12](/assets/causation1.pdf) Causal Inference in Social Sciences
 <br>
 June 8. [Lecture 13](/assets/causationII.pdf) Causal Inference in Social Sciences II
 <br>
-June 15. [Lecture 14](/assets/causationII.pdf Causal Inference in Social Sciences III
+June 15. [Lecture 14](/assets/causationII.pdf) Causal Inference in Social Sciences III
